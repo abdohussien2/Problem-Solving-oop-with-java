@@ -1,8 +1,8 @@
 
 
 
-/* The Qs: if we have a rando%m function that returns 0 or 1 50:50 %
-how can we change that percentage to 25:75 */
+/* The Qs: if we have a random function that returns 0 or 1 50:50 %
+how can we change that percentage to 25:75% */
 
 import java.util.Scanner;
 
